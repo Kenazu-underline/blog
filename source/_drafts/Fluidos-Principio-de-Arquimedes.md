@@ -15,12 +15,13 @@ Quando um objeto está total ou parcialmente submerso em um fluido estático, um
 
 <!-- more -->
 
-$$
+
 \begin{equation}
-  \overrightarrow{F_e} = -m_{deslocado}  \overrightarrow{g}
+  \overrightarrow{F_e} = -m_f \, \overrightarrow{g}
   \label{eq:massaEspInf}
 \end{equation}
-$$
+
+Sendo $ m_f $ a massa de fluido deslocada.
 
 O peso aparente é igual à resultante entre a força de empuxo e o peso do objeto.
 
