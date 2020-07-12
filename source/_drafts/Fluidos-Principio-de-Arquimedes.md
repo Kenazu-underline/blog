@@ -17,7 +17,7 @@ Quando um objeto está total ou parcialmente submerso em um fluido estático, um
 
 $$
 \begin{equation}
-  \overrightarrow{F_e} = -m_{deslocado} \, \overrightarrow{g}
+  \overrightarrow{F_e} = -m_{deslocado}  \overrightarrow{g}
   \label{eq:massaEspInf}
 \end{equation}
 $$
