@@ -16,10 +16,7 @@ Quando um objeto está total ou parcialmente submerso em um fluido estático, um
 <!-- more -->
 
 
-\begin{equation}
-  \overrightarrow{F_e} = -m_f \, \overrightarrow{g}
-  \label{eq:massaEspInf}
-\end{equation}
+
 
 Sendo $ m_f $ a massa de fluido deslocada.
 
