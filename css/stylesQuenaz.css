@@ -1,0 +1,12 @@
+.image-caption{
+  width: 100%;
+  display: block;
+  margin-top: 8px !important;
+  font-weight: normal !important;
+  font-style: italic;
+}
+
+.image-caption a{
+  line-height: 1.25rem;
+  font-style: normal;
+}
