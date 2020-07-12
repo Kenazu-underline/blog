@@ -1,6 +1,6 @@
 ---
 title: Fluidos - Princípio de Pascal
-tags: 
+tags:
   - Física
   - Hidráulica
   - Fluidos
@@ -11,7 +11,7 @@ categories:
 date: 2020-07-11 22:00:00
 ---
 
-O Princípio de Pascal estabelece que
+O Princípio de Pascal estabelece que:
 
 >A pressão aplicada num ponto de um fluido incompressível em repouso transmite-se integralmente a todos os pontos do fluido.
 

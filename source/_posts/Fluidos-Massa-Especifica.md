@@ -1,3 +1,4 @@
+---
 title: Fluidos - Massa Específica
 tags:
   - Física
@@ -9,6 +10,7 @@ categories:
   - Fluidos
 date: 2020-07-11 20:00:00
 ---
+
 A massa específica, ou densidade, de um material é dada por:
 
 \begin{equation}

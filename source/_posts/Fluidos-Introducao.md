@@ -1,14 +1,17 @@
+---
 title: Fluidos - Introdução
 tags:
   - Física
   - Hidráulica
   - Fluidos
+  - Introdução
 mathjax: true
 categories:
   - Física
   - Fluidos
 date: 2020-07-11 19:00:00
 ---
+
 A mecânica dos fluidos é a base da engenharia hidráulica, que é usada em diversas áreas do conhecimento. Este campo de estudo é subdividido em dinâmica dos fluidos e estática dos fluidos.
 
 <!-- block -->

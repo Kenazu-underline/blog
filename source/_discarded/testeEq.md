@@ -1,7 +1,7 @@
----
 title: Math Equations
 description: NexT User Docs – Third-party Service Integration – Math Equations
 mathjax: true
+date: 2020-07-12 14:32:02
 ---
 
 NexT provides two render engines for displaying Math Equations: [MathJax](https://www.mathjax.org) and [KaTeX](https://khan.github.io/KaTeX/).

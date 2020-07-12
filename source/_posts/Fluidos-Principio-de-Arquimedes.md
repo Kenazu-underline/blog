@@ -1,6 +1,6 @@
 ---
 title: Fluidos - Princípio de Arquimedes
-tags: 
+tags:
   - Física
   - Hidráulica
   - Fluidos

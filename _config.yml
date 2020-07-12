@@ -13,8 +13,10 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://Kenazu-underline.github.io/blog
-root: /blog/
+#url: http://Kenazu-underline.github.io/blog
+url: https://kenazu-blog.herokuapp.com/
+#root: /blog/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,9 +101,16 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#deploy:
+#  type: git
+#  repo: https://github.com/Kenazu-underline/blog # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+#  branch: gh-pages
+#  message: 
 deploy:
-  type: ''
-#7e00f7c81abb8e3942f6134a9cdeac523015400b
+  type: heroku
+  repo: https://git.heroku.com/kenazu-blog.git
+  message: 
+
 
 # Mathjax-filter options
 mathjax:

@@ -10,3 +10,13 @@
   line-height: 1.25rem;
   font-style: normal;
 }
+
+mjx-container[jax="SVG"] > svg a {
+  fill: var(--link-color) !important;
+  stroke: var(--link-color) !important;
+}
+mjx-container[jax="SVG"] > svg a:hover {
+  fill: var(--link-hover-color) !important;
+  stroke: var(--link-hover-color) !important;
+}
+

@@ -16,6 +16,8 @@
     "hexo": "^4.2.1",
     "hexo-admin": "^2.3.0",
     "hexo-browsersync": "^0.3.0",
+    "hexo-deployer-git": "^2.1.0",
+    "hexo-deployer-heroku": "^0.1.2",
     "hexo-excerpt-block": "^1.0.0",
     "hexo-filter-mathjax": "^0.5.2",
     "hexo-generator-archive": "^1.0.0",

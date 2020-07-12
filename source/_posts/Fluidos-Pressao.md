@@ -1,3 +1,4 @@
+---
 title: Fluidos - Pressão
 tags:
   - Física
@@ -9,6 +10,7 @@ categories:
   - Fluidos
 date: 2020-07-11 20:30:00
 ---
+
 A pressão é dada por:
 
 \begin{equation}
