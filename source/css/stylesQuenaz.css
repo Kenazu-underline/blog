@@ -12,11 +12,36 @@
 }
 
 mjx-container[jax="SVG"] > svg a {
-  fill: var(--link-color) !important;
-  stroke: var(--link-color) !important;
+  fill: var(--link-color);
+  stroke: var(--link-color);
 }
 mjx-container[jax="SVG"] > svg a:hover {
-  fill: var(--link-hover-color) !important;
-  stroke: var(--link-hover-color) !important;
+  fill: var(--link-hover-color);
+  stroke: var(--link-hover-color);
 }
 
+footer{
+  margin-bottom: 20px;
+}
+
+.site-author-image{
+  border: 0;
+}
+
+.post-body p a, .post-body cite a{
+  border: 0;
+  color: var(--text-color);
+  background: linear-gradient(var(--text-color), var(--text-color)) no-repeat;
+  background-size: 100% 2px;
+  background-position: bottom;
+  transition: background-size 0.1s ease-in, color 0.1s ease-in;
+}
+
+.post-body p a:hover, .post-body cite a:hover{
+  color: var(--content-bg-color);
+  background-size: 100% 100%;
+}
+
+.site-state{
+  justify-content: space-around;
+}

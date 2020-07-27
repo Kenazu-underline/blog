@@ -76,7 +76,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD [de] MMMM [de] YYYY
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
 use_date_for_updated: false
@@ -146,3 +146,15 @@ pandoc:
 image_caption:
   enable: true #false to disable
   class_name: #if you wanna customize the style for the caption,you can assign a class name, default is 'image-caption'
+
+
+# Hexo Word Counter settings
+symbols_count_time:
+  symbols: false
+  time: true
+  total_symbols: false
+  total_time: false
+  exclude_codeblock: false
+  awl: 4
+  wpm: 275
+  suffix: "min"

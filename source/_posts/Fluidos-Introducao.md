@@ -30,3 +30,13 @@ A diferenciação entre sólidos e fluidos não é tão óbvia quanto parece. Ta
 [2]: https://pt.wikipedia.org/wiki/Fluido_newtoniano
 [3]: https://pt.wikipedia.org/wiki/Fluido_n%C3%A3o_newtoniano
 [4]: https://pt.wikipedia.org/wiki/Fluido_incompress%C3%ADvel
+
+#### Posts Relacionados:
+* {% post_link Fluidos-Massa-Especifica %}
+* {% post_link Fluidos-Pressao %}
+* {% post_link Fluidos-Hidrostatica %}
+* {% post_link Fluidos-Principio-de-Pascal %}
+* {% post_link Fluidos-Principio-de-Arquimedes %}
+* {% post_link Fluidos-Hidrodinamica-de-Fluidos-ideais %}
+* {% post_link Fluidos-Equacao-de-Continuidade %}
+* {% post_link Fluidos-Equacao-de-Bernoulli %}
